@@ -45,12 +45,6 @@ import {
   ClientCreate,
   ClientEdit,
 } from "./users";
-import {
-  CommentsList,
-  CommentShow,
-  CommentCreate,
-  CommentEdit,
-} from "./comments";
 import MyLayout from "./MyLayout";
 import {
   Admin,
@@ -79,7 +73,6 @@ import SoupKitchenIcon from "@material-ui/icons/Kitchen";
 
 import * as Posts from "./posts";
 import * as Users from "./users";
-import * as Comments from "./comments";
 
 import CustomLoginPage from "./CustomLoginPage";
 import EventMonitor from "./EventMonitor";
