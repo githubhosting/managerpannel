@@ -1,0 +1,27 @@
+/* .css-aof9pm-MuiPaper-root-MuiAppBar-root-RaAppBar-root{
+    background-color: rgb(243, 111, 39) !important;
+    color: rgb(243, 111, 39) !important;
+
+
+} */
+
+body {
+  display: block;
+  margin: 0px;
+}
+
+/* .MuiCard-root {
+  margin-top: 2rem;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 10px !important;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px !important;
+} */
+.MuiCardActions-root {
+  padding: 10px !important;
+  /* margin-bottom: 15px; */
+}
+
+.MuiCardContent-root {
+  padding: 13px !important;
+}
